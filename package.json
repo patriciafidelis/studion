@@ -1,0 +1,28 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "\u0016Homepage for Studion Event provider and services",
+  "main": "src/index.html",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriciafidelis/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Patricia Fidelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patriciafidelis/studion/issues"
+  },
+  "homepage": "https://github.com/patriciafidelis/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
